@@ -1,0 +1,27 @@
+.App {
+  font-family: "Noto Serif", serif;
+  text-align: center;
+  padding: 4px;
+}
+.welcome {
+  padding: 24px;
+  color: black;
+  background-color: rgba(207, 191, 191, 0.89);
+}
+.user-profile-pic {
+  width: 400px;
+  height: 500px;
+  object-fit: cover;
+}
+/*.btn {
+  display: inline;
+}*/
+button {
+  background-color: lightgray;
+  display: inline;
+}
+.b1,
+.b2 {
+  padding: 10px;
+  margin: 10px;
+}
